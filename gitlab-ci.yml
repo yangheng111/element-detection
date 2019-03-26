@@ -1,0 +1,6 @@
+release:
+   stage: build
+   script:
+       - /home/git/hooks/ci-publish online-tag
+   only:
+       - master
