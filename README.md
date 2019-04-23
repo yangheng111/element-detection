@@ -19,7 +19,7 @@
 >
 > yolov3-com 通用型图像检测
 >
-> yolov3-text 文本类检测
+> PSENet 文本类检测
 
 #### 其他
 
